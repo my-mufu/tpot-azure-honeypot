@@ -1,0 +1,16 @@
+# SSH keys
+*.pem
+*.ppk
+id_rsa
+id_ed25519
+
+# Environment files
+.env
+*.env
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+*.swo
