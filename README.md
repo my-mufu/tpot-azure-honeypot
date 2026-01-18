@@ -31,7 +31,7 @@ Deploy a production-grade honeypot in the cloud to:
 
 ---
 
-## 🧪 Key Findings (48-Hour Run)
+## 🧪 Key Findings (24-Hour Run)
 
 - **Top Attacked Services**: SSH (72%), HTTP (18%), SMB (6%)
 - **Most Common Payloads**: Mirai botnet, Log4j scanners, WordPress brute-force
