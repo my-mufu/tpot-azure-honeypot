@@ -1,10 +1,10 @@
-# 🕵️‍♂️ Cloud Honeypot Lab: T-Pot on Microsoft Azure
+# Cloud Honeypot Lab: T-Pot on Microsoft Azure
 
 ![T-Pot Attack Map](images/tpot-attack-map-live-feed.png)
 
 A secure, ethical deployment of [T-Pot](https://github.com/telekom-security/tpotce) — an all-in-one multi-honeypot platform — on **Microsoft Azure** for threat intelligence and attacker behavior analysis.
 
-> 🔒 **Ethical Note**: This lab is configured for **passive monitoring only**. No interaction with attackers. All data is anonymized and retained <30 days per privacy best practices.
+> **Ethical Note**: This lab is configured for **passive monitoring only**. No interaction with attackers. All data is anonymized and retained <30 days per privacy best practices.
 
 ---
 
