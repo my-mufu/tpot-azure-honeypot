@@ -35,7 +35,7 @@ Deploy a production-grade honeypot in the cloud to:
 
 - **Top Attacked Services**: SSH (72%), HTTP (18%), SMB (6%)
 - **Most Common Payloads**: Mirai botnet, Log4j scanners, WordPress brute-force
-- **Geographic Hotspots**: China, Russia, Brazil, Vietnam
+- **Geographic Hotspots**: Egypt, The Netherland, United States, Bulgaria, Germany
 - **Notable CVEs Observed**: CVE-2021-44228 (Log4Shell), CVE-2017-0144 (EternalBlue)
 
 ![Attack Map Top Countries](images/tpot-attack-map-top-countries.png)
@@ -56,4 +56,8 @@ Deploy a production-grade honeypot in the cloud to:
 - **Auto-shutdown**: Enabled (cost control)
 
 ### 2. Configure Network Security
-Open **only these inbound ports**:
+Open **only these inbound ports**: 22 (SSH), 23 (Telnet), 80 (HTTP), 443 (HTTPS),
+445 (SMB), 3389 (RDP), 5900 (VNC),
+3306 (MySQL), 5432 (PostgreSQL), 6379 (Redis)
+
+> Full port list: [T-Pot Official Ports](https://github.com/telekom-security/tpotce/tree/master?tab=readme-ov-file#required-ports)
