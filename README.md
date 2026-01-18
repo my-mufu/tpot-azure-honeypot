@@ -8,7 +8,7 @@ A secure, ethical deployment of [T-Pot](https://github.com/telekom-security/tpot
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 
 Deploy a production-grade honeypot in the cloud to:
 - Capture real-world attack patterns (SSH brute-force, SMB exploits, web scanners, etc.)
@@ -18,7 +18,7 @@ Deploy a production-grade honeypot in the cloud to:
 
 ---
 
-## 🛡️ Security & Compliance
+## Security & Compliance
 
 | Practice | Implementation |
 |--------|----------------|
@@ -31,7 +31,7 @@ Deploy a production-grade honeypot in the cloud to:
 
 ---
 
-## 🧪 Key Findings (24-Hour Run)
+## Key Findings (24-Hour Run)
 
 - **Top Attacked Services**: SSH (72%), HTTP (18%), SMB (6%)
 - **Most Common Payloads**: Mirai botnet, Log4j scanners, WordPress brute-force
@@ -42,7 +42,7 @@ Deploy a production-grade honeypot in the cloud to:
 
 ---
 
-## 🚀 Deployment Steps (Safe & Reproducible)
+## Deployment Steps (Safe & Reproducible)
 
 ### Prerequisites
 - Azure account ($200 free credit)
