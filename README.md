@@ -148,11 +148,11 @@ Planned improvements include:
 
 ## Why This Matters to Employers
 
-This lab shows the ability to:
+This lab shows that i have the ability to:
 - Deploy and secure **real cloud infrastructure**
 - Collect and analyze **live threat data**
 - Translate raw telemetry into **SOC-usable intelligence**
 - Operate safely within **legal and ethical boundaries**
 
-This mirrors how enterprise blue teams and managed SOCs use honeypots for early threat detection and intelligence gathering.
+The project mirrors how enterprise blue teams and managed SOCs use honeypots for early threat detection and intelligence gathering.
 
